@@ -1,2 +1,2 @@
 # OtakuLedger
-Your accounts. Your data. Your financial story.
+Track your arc. Master your money
